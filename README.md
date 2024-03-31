@@ -2,7 +2,7 @@
 
 My name is Nicolás Tobías Kossacoff, I have a bachelor's degree in Economics and I'm currently studying for a Master's degree in Data Science. I work as an Econometrics Analyst at a marketing company in Buenos Aires, Argentina.
 
-## Skills 💻;
+## Skills 💻
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
