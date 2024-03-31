@@ -2,7 +2,8 @@
 
 My name is Nicolás Tobías Kossacoff, I have a bachelor's degree in Economics and I'm currently studying for a Master's degree in Data Science. I work as an Econometrics Analyst at a marketing company in Buenos Aires, Argentina.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HridoyHazard" alt="HridoyHazard" /> </p>
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<!-- p align="left"> <img src="https://komarev.com/ghpvc/?username=nicokossacoff" alt="nicokossacoff" /> </p>
 
 <!--
 **nicokossacoff/nicokossacoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
