@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-My name is Nicolás Tobías Kossacoff, I have a bachelor's degree in Economics and I'm currently studying for a Master's degree in Data Science. I work as an Econometrics Analyst at a marketing company in Buenos Aires, Argentina.
+My name is Nicolás Tobías Kossacoff, I have a bachelor's degree in Economics and I'm currently studying for a Master's degree in Data Science. I work as a Data Scientist at Mercado Libre in Buenos Aires, Argentina.
 
 ## Skills 💻
 <h3> Languages </h3>
